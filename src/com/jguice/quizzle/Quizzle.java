@@ -14,6 +14,12 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/** TODO switch to maven (but still build fat jar?)
+ *  TODO look for updated voice library with better pronunciation
+ *  TODO integrate platform-specific distributions into maven pom
+ *  TODO remove need to duplicate words when making spelling type test somehow
+ */
+
 /**
  * @author josh
  *
